@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-        <div class="navbar">
+   <div class="navbar">
         <nav>
             <a href="#">Home</a> |
             <a href="#">About</a> |
@@ -16,10 +16,6 @@
             <a href="#">FAQ</a>            
         </nav>
     </div>
-    <hr />
-    <br />
-    <br />
-    <br />
 
     <div class="container">
         <h1>This is Headline One</h1>
@@ -58,10 +54,6 @@
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13292.045404228144!2d90.3994364041148!3d24.73478730806139!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37564f4e5b7faadd%3A0x70bc3f86f06e51cd!2sCar%20Expert!5e0!3m2!1sen!2sbd!4v1661076508612!5m2!1sen!2sbd"
             width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
-    <hr />
-    <br />
-    <br />
-    <br />
 
     <div class="form_section">
         <form action="" method="POST">
@@ -89,10 +81,6 @@
             <input type="submit" name="send" value="Submit">
         </form>
     </div>
-    <hr />
-    <br />
-    <br />
-    <br />
 
     <div class="table_section">
         <table class="table table_bordered" style="border-collapse: collapse;" border="1">
@@ -140,14 +128,5 @@
             </tfoot>
         </table>
     </div>
-    
-
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
 </body>
 </html>
